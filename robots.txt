@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /legal.htm
+Disallow: /terms_of_use.htm
+Disallow: /disclaimer.htm
+Disallow: /testimonial_thank_you.htm
+Disallow: /thank_you.htm
+Disallow: /oldmail/
+Disallow: /mail/
+Disallow: /newmail/
+Disallow: /mystat/
+Disallow: /SiteMap/
+Disallow: /plesk-stat/User-agent: ia_archiver
+
